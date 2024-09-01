@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\studentregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\studentregistration.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|c:\\users\\gpe\\source\\repos\\studentregistration\\studentregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F774F6C-9559-4227-8A3C-05837AFD69F0}|StudentRegistration\\StudentRegistration.csproj|solutionrelative:studentregistration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentRegistration\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:37:34.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "StudentRegistration\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:34:05.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentRegistration\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:31:02.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Services\\StudentService.cs",
+              "RelativeToolTip": "StudentRegistration\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:54:12.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Models\\Student.cs",
+              "RelativeToolTip": "StudentRegistration\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:02:26.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Seed.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Seed.cs",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Seed.cs",
+              "RelativeToolTip": "StudentRegistration\\Seed.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T02:12:14.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRegistration.csproj",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\StudentRegistration.csproj",
+              "RelativeDocumentMoniker": "StudentRegistration\\StudentRegistration.csproj",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\StudentRegistration.csproj",
+              "RelativeToolTip": "StudentRegistration\\StudentRegistration.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T01:03:48.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Data\\DataContext.cs",
+              "RelativeToolTip": "StudentRegistration\\Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T01:22:29.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "StudentRegistration\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\Models\\Admin.cs",
+              "RelativeToolTip": "StudentRegistration\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T04:01:12.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentRegistration\\appsettings.json",
+              "ToolTip": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\appsettings.json",
+              "RelativeToolTip": "StudentRegistration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-31T00:20:00.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
