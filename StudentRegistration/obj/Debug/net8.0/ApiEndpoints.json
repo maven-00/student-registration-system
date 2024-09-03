@@ -1,26 +1,6 @@
 [
   {
     "ContainingType": "StudentRegistration.Controllers.StudentController",
-    "Method": "GetStudents",
-    "RelativePath": "api/Student",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[StudentRegistration.Models.Student, StudentRegistration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "StudentRegistration.Controllers.StudentController",
     "Method": "GetStudentById",
     "RelativePath": "api/Student/{id}",
     "HttpMethod": "GET",
@@ -36,6 +16,83 @@
     "ReturnTypes": [
       {
         "Type": "StudentRegistration.Models.Student",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StudentRegistration.Controllers.StudentController",
+    "Method": "AddStudent",
+    "RelativePath": "api/Student/create-student",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentRequest",
+        "Type": "StudentRegistration.Dto.StudentRequest",
+        "IsRequired": true
+      },
+      {
+        "Name": "adminId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StudentRegistration.Models.Student",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "StudentRegistration.Controllers.StudentController",
+    "Method": "GetSearchStudent",
+    "RelativePath": "api/Student/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[StudentRegistration.Models.Student, StudentRegistration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StudentRegistration.Controllers.StudentController",
+    "Method": "GetStudents",
+    "RelativePath": "api/Student/students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[StudentRegistration.Models.Student, StudentRegistration, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

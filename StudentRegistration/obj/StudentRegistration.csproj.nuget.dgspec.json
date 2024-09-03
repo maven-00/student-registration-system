@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\StudentRegistration.csproj": {}
+    "C:\\Users\\GPE\\source\\repos\\student-registration-system\\StudentRegistration\\StudentRegistration.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\StudentRegistration.csproj": {
+    "C:\\Users\\GPE\\source\\repos\\student-registration-system\\StudentRegistration\\StudentRegistration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\StudentRegistration.csproj",
+        "projectUniqueName": "C:\\Users\\GPE\\source\\repos\\student-registration-system\\StudentRegistration\\StudentRegistration.csproj",
         "projectName": "StudentRegistration",
-        "projectPath": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\StudentRegistration.csproj",
+        "projectPath": "C:\\Users\\GPE\\source\\repos\\student-registration-system\\StudentRegistration\\StudentRegistration.csproj",
         "packagesPath": "C:\\Users\\GPE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GPE\\source\\repos\\StudentRegistration\\StudentRegistration\\obj\\",
+        "outputPath": "C:\\Users\\GPE\\source\\repos\\student-registration-system\\StudentRegistration\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GPE\\AppData\\Roaming\\NuGet\\NuGet.Config",
