@@ -12,7 +12,8 @@ namespace StudentRegistration
         }
         public void SeedDataContext()
         {
-            if (!dataContext.Students.Any()) {
+            if (!dataContext.Students.Any())
+            {
 
                 var students = new List<Student>() {
 
@@ -28,13 +29,13 @@ namespace StudentRegistration
                         CreatedOn = DateTime.Now,
                         Admin = new Admin() {
 
-                            FirstName = "Admin",
-                            LastName = "Admin",
+                            FirstName = "Mark",
+                            LastName = "Lawat",
                             Gender = "Male",
                             Age = 30,
                             Username = "Admin",
                             Password = "Admin"
-                            
+
                         }
                     },
 
@@ -50,8 +51,8 @@ namespace StudentRegistration
                         CreatedOn = DateTime.Now,
                         Admin = new Admin() {
 
-                            FirstName = "Admin",
-                            LastName = "Admin",
+                            FirstName = "Ayen",
+                            LastName = "Amaya",
                             Gender = "Male",
                             Age = 30,
                             Username = "Admin",
@@ -72,8 +73,8 @@ namespace StudentRegistration
                         CreatedOn = DateTime.Now,
                         Admin = new Admin() {
 
-                            FirstName = "Admin",
-                            LastName = "Admin",
+                            FirstName = "Mark",
+                            LastName = "Blanco",
                             Gender = "Male",
                             Age = 30,
                             Username = "Admin",

@@ -11,6 +11,7 @@
         public int Age { get; set; }
         public DateOnly Birthdate { get; set; }
         public DateTime CreatedOn { get; set; }
+        public int AdminId { get; set; }
         public Admin Admin { get; set; } = new Admin();
     }
 }
