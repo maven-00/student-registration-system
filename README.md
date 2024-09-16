@@ -37,6 +37,9 @@ cd your-folder</code></pre></li>
                 <li>Update the database by running this command.<pre><code>Update-Database</code></pre></li>
             </ol>
         <h3>Database Connection</h3>
+        <p>Update your `appsettings.json` file with your SQL connection string. <pre><code>"ConnectionStrings": {
+            "DefaultConnection": "Server=your-server-name;Database=your-database-name;User Id=your-username;Password=your-password;"
+}</code></pre></p>
 <h2>Running the Project</h2>
     <h3>Using Visual Studio 2022</h3>
 <h2>API Documentation</h2>
