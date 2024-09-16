@@ -1,0 +1,31 @@
+<h1>Student Registration</h1>
+<h3>Index</h3>
+<h3>About the Project</h3>
+    <p>This project is a backend system built using ASP.NET 6 and SQL Server. It handles CRUD operations for managing student data and integrates with a frontend interface. The API is secured using ...
+    </p>
+<h3>Technologies Used</h3>
+    <ul>
+        <li>ASP.NET 6</li>
+        <li>SQL SERVER 2022 EXPRESS</li>
+        <li>Entity Framework Core</li>
+        <li>Swagger (For Testing Endpoints)</li>
+        <li>Visual Studio 2022</li>
+    </ul>
+<h2>Getting Started</h2>
+    <p>Follow these instructions to get the project up and running on your local machine.</p>
+    <h3>Pre-requisites</h3>
+        <ul>
+            <li><a href="https://visualstudio.microsoft.com/vs/">Visual Studio 2022</a></li>
+            <li><a href="https://dotnet.microsoft.com/en-us/download/dotnet/6.0">.NET 6 SDK</a></li>
+            <li><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">SQL SERVER 2022 EXPRESS</a></li>
+            <li><a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16">SQL Server Management Studio 20.2</a></li>
+        </ul>
+    <h3>Installation</h3>
+    <h3>Configuration</h3>
+    <h3>Database Setup</h3>
+<h2>Running the Project</h2>
+    <h3>Using Visual Studio 2022</h3>
+<h2>API Documentation</h2>
+    <h3>Accessing the Swagger</h3>
+    <h3>Sample API Endpoints</h3>
+<h2>Contributing</h2>
