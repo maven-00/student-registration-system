@@ -21,6 +21,13 @@
             <li><a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16">SQL Server Management Studio 20.2</a></li>
         </ul>
     <h3>Installation</h3>
+        <ol>
+            <li>Clone the repository. You can create a new folder where you can easily access the file. Git Bash in your folder and run this code. <pre><code>git clone https://github.com/maven-00/student-registration-system.git 
+
+cd your-folder</code></pre></li>
+            <li>Open the file `StudentRegistration.sln` in Visual Studio.</li>
+            <li>Restore the dependencies. <pre><code>dotnet restore</code></pre></li>
+        </ol>
     <h3>Configuration</h3>
     <h3>Database Setup</h3>
 <h2>Running the Project</h2>
@@ -29,3 +36,11 @@
     <h3>Accessing the Swagger</h3>
     <h3>Sample API Endpoints</h3>
 <h2>Contributing</h2>
+    <p>To contribute:</p>
+    <ol>
+        <li>Fork the repository.</li>
+        <li>Create a new branch. <pre><code>git checkout -b feature/your-feature</code></pre></li>
+        <li>Commit your changes. <pre><code>git commit -m 'Added a feature'</code></pre></li>
+        <li>Push to the branch. <pre><code>git push origin feature/your-feature</code></pre></li>
+        <li>Open a pull request.</li>
+    </ol>
