@@ -28,8 +28,15 @@ cd your-folder</code></pre></li>
             <li>Open the file `StudentRegistration.sln` in Visual Studio.</li>
             <li>Restore the dependencies. <pre><code>dotnet restore</code></pre></li>
         </ol>
-    <h3>Configuration</h3>
-    <h3>Database Setup</h3>
+    <h2>Configuration</h2>
+        <h3>Database Setup</h3>
+        <p>Ensure the database is set up before running the project. Follow these steps for Entity Framework migrations:</p>
+            <ol>
+                <li>Open the Package Manager Console. Go to <b>Tools > NuGet Package Manager > Package Manager Console</b>.</li>
+                <li>Add migration by running this command in the console.You can replace `InitialCreate` with your desired migration name.<pre><code>Add-Migration InitialCreate</code></pre></li>
+                <li>Update the database by running this command.<pre><code>Update-Database</code></pre></li>
+            </ol>
+        <h3>Database Connection</h3>
 <h2>Running the Project</h2>
     <h3>Using Visual Studio 2022</h3>
 <h2>API Documentation</h2>
