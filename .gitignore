@@ -1,0 +1,5 @@
+#Ignore visual studio index files
+*.vsidx
+
+#Ignore the entire .vs folder
+.vs/
