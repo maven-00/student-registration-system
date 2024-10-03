@@ -42,9 +42,19 @@ cd your-folder</code></pre></li>
 }</code></pre></p>
 <h2>Running the Project</h2>
     <h3>Using Visual Studio 2022</h3>
+    <ol>
+        <li>Press `F5` to run the project in Debug mode.</li>
+        <li>The project should start running, and Swagger documentation can be accessed at: <pre><code>http://localhost:5000/swagger</code></pre></li>
+    </ol>
+    <h3>Using CLI</h3>
+    <pre><code>dotnet run</code></pre>
 <h2>API Documentation</h2>
     <h3>Accessing the Swagger</h3>
+    <pre><code>http://localhost:5000/swagger</code></pre>
     <h3>Sample API Endpoints</h3>
+    <ul>
+        <li>`GET` </li>
+    </ul>
 <h2>Contributing</h2>
     <p>To contribute:</p>
     <ol>
