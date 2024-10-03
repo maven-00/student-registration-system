@@ -53,7 +53,10 @@ cd your-folder</code></pre></li>
     <pre><code>http://localhost:5000/swagger</code></pre>
     <h3>Sample API Endpoints</h3>
     <ul>
-        <li>`GET` </li>
+        <li>GET `/api/students` - Get all students.</li>
+        <li>POST `/api/students` - Add a new student. </li>
+        <li>PUT `/api/students/{id}` - Update student by Id</li>
+        <li>DELETE `/api/students/{id}` - Delete student by Id</li>
     </ul>
 <h2>Contributing</h2>
     <p>To contribute:</p>
