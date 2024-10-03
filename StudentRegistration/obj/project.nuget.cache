@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AsPGFGQB8Ls=",
+  "dgSpecHash": "ppdD5kAnuKE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\GPE\\Documents\\student-registration-system\\StudentRegistration\\StudentRegistration.csproj",
+  "projectFilePath": "C:\\Users\\GPE\\repos\\GitHub\\StudentRegistration\\student-registration-system\\StudentRegistration\\StudentRegistration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GPE\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\GPE\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
